@@ -9,12 +9,12 @@
   <extension point="xbmc.python.script"
              library="addon.py" />
   <extension point="xbmc.addon.metadata">
-    <summary>Python 2 and 3 compatibility utilities.</summary>
-    <description>Six is a Python 2 and 3 compatibility library. It provides utility functions for smoothing over the differences between the Python versions with the goal of writing Python code that is compatible on both Python versions. See the documentation for more information on what is provided.</description>
+    <summary>Internet speedtest for kodi.</summary>
+    <description>Uses speedtest-cli (must be installed seperately) to provide internet speedtest results.</description>
     <platform>all</platform>
     <license>MIT</license>
-    <source>https://pypi.python.org/pypi/six</source>
-    <website>https://pypi.python.org/pypi/six</website>
+    <source>https://github.com/sunmorgus/kodispeed</source>
+    <website>https://github.com/sunmorgus/kodispeed</website>
     <assets>
      <icon>icon.png</icon>
     </assets>
